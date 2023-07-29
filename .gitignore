@@ -1,2 +1,5 @@
 damas-game/bin
 damas-game/obj
+.vscode
+damas-game/main.o
+damas-game/main.exe
